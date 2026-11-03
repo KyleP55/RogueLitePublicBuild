@@ -5,9 +5,9 @@
 "game.unx",
 "music_group.dat",
 "sfx_group1.dat" ], "manifestFilesMD5" : [ "585214623b669175a702fed30de7d21d",
-"7eb285d8ddb936cebc7b03e69bf13d75",
-"6344cea96b6757c3753745b7ebf72d7d",
+"3c9d7e5d0fca31379217e19ef59052dc",
+"9f2d2ae08c0bc749b040f83f74427502",
 "e8f1e8db8cf996f8715a6f2164c2e44e",
-"0d66bbbc768a501068c2c5beef6967dd",
+"4e5b63f6c50fc2f28bb8ee8a3fd86e57",
 "585ee2504fd5a8e0f0015494d3f4e666",
-"9f1fb44feb7b1c336d5e45dd314c19fb" ], "mainJS" : "runner.js", "unx": "game.unx", "index": "index.html", "runner": {"version": "2026.0.0.23", "yyc": false}}
+"9f1fb44feb7b1c336d5e45dd314c19fb" ], "mainJS" : "runner.js", "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.14.4.268", "yyc": false}}
